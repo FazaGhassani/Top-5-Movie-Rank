@@ -1,4 +1,4 @@
-# Top-5-Movie-Rank
+# Top-5-Movie-Rank-(-Jaccard-Coeffisient-)
 function that, given a movie name and rate top 5 Movie rank using the   Jaccard coefficient. The top 5 movies are have biggest jaccard   coefficient between given movie and 5 others.  
 
 This function works for Movielents dataset.  
